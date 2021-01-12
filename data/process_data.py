@@ -55,7 +55,7 @@ def clean_data(df):
     #Remove Null values
     df = df.dropna() 
     #Drop the rows that have value 2
-    df = df.drop(df[df['related'] == 2].index, inplace=True)   
+    df = df.drop(df[df['related'] == 2].index)   
     
     return df
     
