@@ -4,4 +4,14 @@ This project includes a web application where an emergency worker can input a ne
 
 # Getting Started
 ## Prerequisites
-<pip install pandas>
+```
+pip install pandas 
+pip install Numpy
+pip install Sci-kit Learn
+pip install Flask 
+pip install SQL Alchemy
+pip install Plotly
+pip install NLTK
+
+```
+
