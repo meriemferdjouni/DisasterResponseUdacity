@@ -26,6 +26,8 @@ We use/analyse data from [Figure Eightin](https://appen.com) this project is a l
 
 # Folders and Files
 This repository includes:
+
+* **Jupyter_Notebook** Two notebook files inlcuding ETL(Extract, Transform, Load) Pipeline notebook and ML pipeline notebook.
 * **data** Where you the data is uploaded and processed.
 * **app** running the web application.
 * **models** where the machine learning model is trained/tested/saved.
