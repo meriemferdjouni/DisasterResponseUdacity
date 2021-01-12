@@ -19,7 +19,7 @@ pip install NLTK
 * [Plotly](https://plotly.com) - For data visualaziation 
 * [Bootstrap](https://getbootstrap.com) - Web framework, Front-End Library 
 * [Flask](https://flask.palletsprojects.com/en/1.1.x/) - Web framework to build the Back-End
-*** You should sign up for Flask if you don't have an account
+** You should sign up for Flask if you don't have an account
 
 # Folders and Files
 
